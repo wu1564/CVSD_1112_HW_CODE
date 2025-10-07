@@ -1,0 +1,37 @@
+﻿  ML_Demodulatecpp.cpp
+C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Project1\ML_Demodulatecpp.cpp(6,16): warning C4334: '<<': 32 位元位移的結果已隱含轉換為 64 位元 (是否原來就是要進行 64 位元位移?
+C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Project1\ML_Demodulatecpp.cpp(14,16): warning C4334: '<<': 32 位元位移的結果已隱含轉換為 64 位元 (是否原來就是要進行 64 位元位移?
+C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Project1\ML_Demodulatecpp.cpp(108,5): warning C4334: '<<': 32 位元位移的結果已隱含轉換為 64 位元 (是否原來就是要進行 64 位元位移?
+C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Project1\ML_Demodulatecpp.cpp(135,61): warning C4334: '<<': 32 位元位移的結果已隱含轉換為 64 位元 (是否原來就是要進行 64 位元位移?
+C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Project1\ML_Demodulatecpp.cpp(157,11): warning C4244: '正在初始化': 將 'LLI' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Project1\ML_Demodulatecpp.cpp(158,11): warning C4244: '正在初始化': 將 'LLI' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Project1\ML_Demodulatecpp.cpp(198,30): warning C4244: '+=': 將 'LLI' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Project1\ML_Demodulatecpp.cpp(264,19): warning C4244: '引數': 將 'LLI' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Project1\ML_Demodulatecpp.cpp(265,33): warning C4244: '引數': 將 'LLI' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Project1\ML_Demodulatecpp.cpp(268,19): warning C4244: '引數': 將 'LLI' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Project1\ML_Demodulatecpp.cpp(269,33): warning C4244: '引數': 將 'LLI' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Project1\ML_Demodulatecpp.cpp(304,18): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Project1\ML_Demodulatecpp.cpp(321,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Project1\ML_Demodulatecpp.cpp(328,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Project1\ML_Demodulatecpp.cpp(329,21): warning C4018: '<': signed/unsigned 不相符
+  main.cpp
+C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Project1\main.cpp(12,13): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Project1\main.cpp(38,20): warning C4018: '<': signed/unsigned 不相符
+  正在產生程式碼...
+  Project1.vcxproj -> C:\Users\user\Desktop\IC\NTU_CVSD\CVSD_111_2\111-2_HW\FINAL\simulator\cpp\Project1\Debug\Project1.exe

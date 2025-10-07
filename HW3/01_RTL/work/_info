@@ -1,0 +1,117 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/Desktop/IC/NTU_CVSD/CVSD_111_2/111-2_HW/HW3/1112_hw3/01_RTL
+vcore
+Z1 !s110 1759804113
+!i10b 1
+!s100 ;BTUN`PM6R9gUY@CaOl7m2
+IA<LjmOSheN;k495<N7<6Q1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Hardware/IC/NTU_CVSD/CVSD_111_2/111-2_HW/HW3/1112_hw3/01_RTL
+w1759548162
+Z4 8./coreV3.v
+Z5 F./coreV3.v
+L0 5
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1759804113.000000
+Z8 !s107 ../00_TESTBED/testbench.v|./coreV3.v|
+Z9 !s90 -reportprogress|300|./coreV3.v|../00_TESTBED/testbench.v|+define+tb3|
+!i113 1
+Z10 !s92 +define+tb3
+Z11 tCvgOpt 0
+vcoreV1
+!s110 1687425543
+!i10b 1
+!s100 lWFkNPe;3>0NV]Fk?NnWk0
+I@S5=VZXQ_m^dXHGbm1gD^2
+R2
+R0
+w1687425410
+8./coreV1.v
+F./coreV1.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1687425543.000000
+!s107 ../00_TESTBED/testbench.v|../sram_4096x8/sram_4096x8.v|./coreV1.v|
+!s90 -reportprogress|300|./coreV1.v|../sram_4096x8/sram_4096x8.v|../00_TESTBED/testbench.v|+define+tb1|
+!i113 1
+Z12 !s92 +define+tb1
+R11
+ncore@v1
+vcoreV3
+!s110 1759466758
+!i10b 1
+!s100 ZieEWU`XFQUTkgQSoIG?=3
+I>gJjZ?Hk9[<RQN>@][80[2
+R2
+R3
+w1759465335
+R4
+R5
+L0 5
+R6
+r1
+!s85 0
+31
+!s108 1759466758.000000
+R8
+!s90 -reportprogress|300|./coreV3.v|../00_TESTBED/testbench.v|+define+tb1|
+!i113 1
+R12
+R11
+ncore@v3
+vsram_4096x8
+!s110 1687449669
+!i10b 1
+!s100 A_eaIDBh;aB3d[Kn[E[io2
+I6e;`bP763<TjlD5JlZz>m2
+R2
+R0
+w1679756261
+8../sram_4096x8/sram_4096x8.v
+F../sram_4096x8/sram_4096x8.v
+L0 55
+R6
+r1
+!s85 0
+31
+!s108 1687449669.000000
+!s107 ../00_TESTBED/testbench.v|../sram_4096x8/sram_4096x8.v|./core.v|
+!s90 -reportprogress|300|./core.v|../sram_4096x8/sram_4096x8.v|../00_TESTBED/testbench.v|+define+tb3|
+!i113 1
+R10
+R11
+vtestbed
+R1
+!i10b 1
+!s100 WLNhJIdizdd@[BSaYg2gc2
+I91_k`5?:CDCf6[?OnPJJ71
+R2
+R3
+w1759469675
+8../00_TESTBED/testbench.v
+F../00_TESTBED/testbench.v
+L0 49
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

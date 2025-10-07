@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/Desktop/IC/NTU_CVSD/CVSD_111_2/111-2_HW/HW1/1112_hw1_v1/1112_hw1/01_RTL
+valu
+Z1 !s110 1681996756
+!i10b 1
+!s100 jNLhR3nOHWAb9YIgJL>:@3
+IOg8>Dc_o2P]TkFiT8:7z71
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1681995057
+8../01_RTL/alu_9765.v
+F../01_RTL/alu_9765.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1681996756.000000
+Z5 !s107 ../00_TESTBED/testbench.v|../01_RTL/alu_9765.v|
+Z6 !s90 -reportprogress|300|../01_RTL/alu_9765.v|../00_TESTBED/testbench.v|+define+I1|
+!i113 1
+Z7 !s92 +define+I1
+Z8 tCvgOpt 0
+vtestbed
+R1
+!i10b 1
+!s100 5`cRKf0^9mcU6SilSnc]Q2
+IEXAfLTddii>`MOLQmaj=f3
+R2
+R0
+w1681992819
+8../00_TESTBED/testbench.v
+F../00_TESTBED/testbench.v
+L0 53
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8

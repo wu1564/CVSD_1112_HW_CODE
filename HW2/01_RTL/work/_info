@@ -1,0 +1,95 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/Desktop/IC/NTU_CVSD/CVSD_111_2/111-2_HW/HW2/1112_hw2_v2/1112_hw2_release/01_RTL
+vcore
+Z1 !s110 1682168462
+!i10b 1
+!s100 DLKO3UoIIC9To@QYL5Ij^2
+IE4d]hZmh;`aN0aWFYDQ]V1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1682166668
+8core.v
+Fcore.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1682168462.000000
+Z5 !s107 ../00_TESTBED/define.v|registerFile.v|inst_decoder.v|core.v|../00_TESTBED/testbed_temp.v|
+Z6 !s90 -reportprogress|300|../00_TESTBED/testbed_temp.v|core.v|inst_decoder.v|registerFile.v|+define+p0|
+!i113 1
+Z7 !s92 +define+p0
+Z8 tCvgOpt 0
+vinst_decoder
+R1
+!i10b 1
+!s100 9oH0Ml;i;Jb8UgF[C7dRG0
+IW;P2]To`5[f^WeG2G>lE;0
+R2
+R0
+w1682155096
+8inst_decoder.v
+Finst_decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vregisterFile
+R1
+!i10b 1
+!s100 hk4XH<Ad;<<CL044JgM3l3
+IWBiA_`Sd`>>DHoAPCRQG50
+R2
+R0
+w1682161583
+8registerFile.v
+FregisterFile.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+nregister@file
+vtestbed
+R1
+!i10b 1
+!s100 9J1D<O^]A2g4nYIWUTF=A3
+IHU@Q@lT[E@HidVSWH1]^I3
+R2
+R0
+w1682155907
+8../00_TESTBED/testbed_temp.v
+F../00_TESTBED/testbed_temp.v
+L0 23
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8

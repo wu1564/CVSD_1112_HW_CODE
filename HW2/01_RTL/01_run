@@ -1,0 +1,6 @@
+vcs -f rtl.f -full64 -R -debug_access+all +v2k +define+p0
+
+
+
+
+
